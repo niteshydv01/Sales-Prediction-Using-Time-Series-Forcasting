@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sales-Prediction-Using-Time-Series-Forcasting</title>
+    
 </head>
 <body>
     <h1>Sales-Prediction-Using-Time-Series-Forcasting</h1>
@@ -16,9 +16,10 @@ Rossmann Store Sales dataset. Predicting sales is critical for
 businesses to manage inventory, staffing, and marketing strategies
 effectively. The task involved exploring time-series data, applying
 feature engineering, and training predictive models using two
-different approaches:
+different approaches:<br>
+        
 1. XGBoost Regressor - XGBoost leverages tree-based ensemble
-learning for structured data.
+learning for structured data.<br>
 2. LSTM (Long Short-Term Memory) - A deep learning model
 suited for sequential data. LSTM is a neural network designed
 to capture temporal dependencies in sequential datasets.
